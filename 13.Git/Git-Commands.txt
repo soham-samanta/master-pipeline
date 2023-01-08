@@ -17,7 +17,7 @@
   492  cp remotexecmulti.sh remotexecmulti.sh_12113030_1040.bakup
   493  cp remotexecmulti.sh remotexecmulti.sh_12103030_1150.bakup
   494  cp remotexecmulti.sh remotexecmulti.sh_05103030_1150.bakup
-  495  ls
+  495  ls 
   496  tar
   497  tar czvf remotexecmulti.Bakup *.bakup
   498  ls
