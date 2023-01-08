@@ -87,6 +87,7 @@
   562  clear
   563  cat .git/config
   564  cd
+  
   565  rm -rf .ssh/*
   566  ssh-keygen.exe
   567  ls .ssh
